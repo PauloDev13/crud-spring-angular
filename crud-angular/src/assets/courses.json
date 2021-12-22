@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "1",
+    "name": "Curso Angular",
+    "category": "Front end"
+  },
+  {
+    "_id": "2",
+    "name": "Curso React",
+    "category": "Front end"
+  },
+  {
+    "_id": "3",
+    "name": "Curso NodeJS",
+    "category": "Back end"
+  },
+  {
+    "_id": "4",
+    "name": "Curso Java",
+    "category": "Back end"
+  }
+]
